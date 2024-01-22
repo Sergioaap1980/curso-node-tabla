@@ -1,0 +1,8 @@
+# todos los archivos o directorios que quiero iganorar
+
+#ignora los archivos de los modulos de node     *para reconstruirlos es con el comando npm i o npm install
+node_modules
+
+# ignora unicamente los archivos .txt
+salida/*.txt 
+
